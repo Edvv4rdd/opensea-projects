@@ -16,7 +16,7 @@ const Web3ProviderEngine = require("web3-provider-engine");
 const { WyvernSchemaName } = require("opensea-js/lib/types");
 
 const MNEMONIC = ""
-const NODE_API_KEY = '382562e47d6844b5b350a61048e98bcc'
+const NODE_API_KEY = ''
 const OWNER_ADDRESS = '0xc7eb703A8d4e58f55aB174697aebA577596A6937'
 const TOKEN_ADDRESS = '0x495f947276749ce646f68ac8c248420045cb7b5e'
 
